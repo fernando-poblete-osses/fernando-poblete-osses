@@ -1,4 +1,14 @@
-## Hi there 👋
+👋 Sobre mí  
+Soy Fernando, Ingeniero Civil Industrial y Profesional de Datos. Mi enfoque es la mejora de procesos empresariales a través de la toma de decisiones basada en datos, combinando habilidades técnicas con una visión estratégica de negocio adquirida con mi doble MBA (NUCB Business School y HHL Leipzig). Esta formación me permite conectar de manera eficaz la infraestructura de datos con el valor empresarial, transformando datos en información accionable.
+
+🚀 Dirección futura  
+Estoy expandiendo activamente este portafolio con nuevos proyectos:
+Principios de Ingeniería de Datos (pipelines de datos, orquestación, infraestructura)
+Tecnologías en la nube y componentes del stack de datos
+Soluciones de datos escalables que unen análisis e ingeniería
+
+🤝 Conectemos  
+¡Explora mis proyectos a continuación para ver cómo traduzco datos en información y soluciones!
 
 <!--
 **fernando-poblete-osses/fernando-poblete-osses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
