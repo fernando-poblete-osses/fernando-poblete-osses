@@ -10,7 +10,7 @@ Scalable Data Solutions that Bridge Analytics and Engineering
 🌐 Let's Connect  
 Explore my projects below to see how I translate data into insights and solutions!
 
-============================================================================================
+========================================================================
 
 🌟 Sobre mí  
 Soy Fernando, Ingeniero Civil Industrial y Profesional de Datos. Mi enfoque es la mejora de procesos empresariales a través de la toma de decisiones basada en datos, combinando habilidades técnicas con una visión estratégica de negocio adquirida con mi doble MBA (NUCB Business School y HHL Leipzig). Esta formación me permite conectar de manera eficaz la infraestructura de datos con el valor empresarial, transformando datos en información accionable.
